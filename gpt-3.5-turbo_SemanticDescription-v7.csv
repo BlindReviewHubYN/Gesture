@@ -1,0 +1,38 @@
+,Utterance,Annotation,num=2_context=True,num=4_context=True,num=6_context=True,num=-1_context=True
+0,everybody,inclusive span,inclusive sweep.,inclusive sweep.,inclusive span.,inclusive span.
+1,a normal time,temporal span,spatial contrast.,temporal span.,temporal span.,temporal span.
+2,these next 76 days,temporal span,temporal span.,temporal span.,temporal span.,temporal span.
+3,through generations,temporal sweep,temporal span.,temporal span.,temporal span.,temporal span.
+4,to come,forward sweep,temporal sweep.,temporal sweep.,temporal sweep.,temporal sweep.
+5,document,container,hold in hand.,container.,container.,container.
+6,failed to guarantee women,remove from container,exclusion.,negation span.,negation sweep.,negation sweep.
+7,who didn't own property,negation span,exclusion.,remove from container.,remove from container.,remove from container.
+8,embedded in this document,insert into container,container.,container.,container.,container.
+9,guide future generations,temporal span,spatial sweep.,forward sweep.,forward sweep.,positive sweep.
+10,a democracy,container,symbolic gesture.,positive sweep.,positive sweep.,positive sweep.
+11,realize our highest ideals,positive sweep,upward sweep.,emphatic sweep.,temporal sweep.,emphasizing sweep.
+12,civil war,container,conflict.,container.,container.,container.
+13,bitter struggles,container,emotional gesture.,negative sweep.,container.,negative sweep.
+14,to include the voices,insert into container,grasp and pull in.,insert into container.,positive sweep.,positive sweep.
+15,who had once been left out,container,exclusion.,negation span.,negation span.,negation span.
+16,by all of the people,inclusive sweep,inclusive span.,inclusive span.,inclusive span.,inclusive span.
+17,all 300 million of us,inclusive span,inclusive span.,inclusive span.,inclusive sweep.,inclusive sweep.
+18,regardless of what we look like,negative sweep,physical characteristic.,inclusive span.,negation span.,inclusive span.
+19,custodian of this democracy,container,holding and protecting.,hold and protect.,container.,container.
+20,political beliefs,inclusive span,contrast.,negation span.,negation span.,container.
+21,so many americans,container,inclusive sweep.,inclusive span.,inclusive span.,enumeration sweep.
+22,marched for,enumration sweep,action.,positive sweep.,positive sweep.,positive sweep.
+23,in the oval office,emphasising sweep,location.,location.,location.,location container.
+24,my vision,container,point to self.,self-reference.,positive sweep.,container.
+25,continue my policies,temporal span,continuation.,forward sweep.,positive sweep.,positive sweep.
+26,show no interest,negative sweep,negative head shake.,negation span.,negation span.,negative sweep.
+27,awesome power,container,emphatic gesture.,positive sweep.,positive sweep.,emphasizing sweep.
+28,anyone but himself,enumeration sweep,self-exclusion.,negation span.,negation span.,negative sweep.
+29,and his friends,enumeration sweep,inclusive span.,add to container.,inclusive span.,enumeration sweep.
+30,millions of jobs,enumeration sweep,quantity.,quantity.,quantifier span.,enumeration span.
+31,gone,removing item sweep,disappear.,negative sweep.,forward sweep.,removal sweep.
+32,unleashed,process sweep,release.,release.,release.,emphasizing sweep.
+33,badly diminished,negative sweep,downward movement.,negative sweep.,negative sweep.,negative sweep.
+34,Most of you,inclusive span,inclusive span.,inclusive span.,inclusive span.,inclusive span.
+35,you'll vote at all,negative sweep,negative sweep.,negation span.,forward sweep.,negation sweep.
+36,the direction,direction sweep,spatial sweep.,directional sweep.,spatial sweep.,forward sweep.
